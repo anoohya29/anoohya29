@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Anoohya V</h1>
 <h3 align="center">A passionate software developer eager to join a team and contribute to meaningful projects!</h3>
 
-- 🔭 I’m currently working at **Data Inception as FullStack Developer**
+
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 My website [https://anoohya29.github.io/Anoohya_Veerapaneni/](https://anoohya29.github.io/Anoohya_Veerapaneni/)
 
-- 📫 How to reach me **anoov06@gmail.com**
+
+- 📫 How to reach me **anu.vee29@gmail.com**
 
 - 📄 Know about my experiences [https://anoohya29.github.io/Anoohya_Veerapaneni/documents/softwareeng.pdf](https://anoohya29.github.io/Anoohya_Veerapaneni/documents/softwareeng.pdf)
 
